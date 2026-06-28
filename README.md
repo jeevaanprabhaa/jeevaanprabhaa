@@ -1,95 +1,73 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">A passionate developer who loves building cool things</h3>
 
-# Jeevaanprabhaa R
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/YOUR-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social" alt="followers" /></a>
+</p>
 
-**MERN Stack Developer**
-
-*Building clean, scalable web experiences — one component at a time.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Portfolio](https://img.shields.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-### About Me
-
-Hey, I'm Jeevaanprabhaa — a MERN stack developer who loves turning ideas into production-ready products. I care deeply about clean code, smooth UX, and shipping things that actually work.
-
-- 🔭 Currently building full-stack web apps with **MongoDB, Express, React & Node.js**
-- 🌱 Exploring **TypeScript**, **Next.js**, and **system design**
-- 💬 Ask me about **REST APIs, React performance, or backend architecture**
-- ⚡ I believe good software is invisible — users shouldn't have to think about it
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### Tech Stack
+### 🚀 About Me
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat&logo=fastapi&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- 🔭 I'm currently working on **awesome-project**
+- 🌱 I'm currently learning **new tech stack**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **your expertise**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **something fun about you**
 
 ---
 
-### GitHub Stats
+### 🛠️ Languages & Tools
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jeevaanprabhaa&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevaanprabhaa&layout=compact&theme=default&hide_border=true" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,docker,aws,mongodb,mysql,figma" />
+</p>
 
 ---
 
-### Featured Projects
+### 📊 GitHub Stats
 
-| Project | Description | Stack |
-|---|---|---|
-| 🛒 [**Project Name**](https://github.com/your-username/project) | E-commerce platform with auth, cart & payments | React, Node, MongoDB |
-| 💬 [**Project Name**](https://github.com/your-username/project) | Real-time chat app with WebSockets | React, Express, Socket.io |
-| 📋 [**Project Name**](https://github.com/your-username/project) | Task management dashboard with drag & drop | Next.js, MongoDB |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-> Replace with your actual projects!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" />
+</p>
 
----
-
-### Currently Learning
-
-```
-TypeScript  ████████░░  80%
-Next.js     ███████░░░  70%
-Docker      █████░░░░░  50%
-System Design ████░░░░░░ 40%
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+### 🐍 Contribution Snake Garden
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Profile views](https://komarev.com/ghpvc/?username=jeevaanprabhaa&color=grey&style=flat)
+> ⚙️ The snake above eats through my real contribution graph automatically — see setup steps below.
 
-</div>
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by! ⭐ Star some of my repos if you like what you see.</i></p>
